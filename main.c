@@ -10,7 +10,5 @@ int main(void) {
   else
   x=a*(-15);
   printf("X = %d ",x);
-
-
   return 0;
 }
